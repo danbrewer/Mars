@@ -1,3 +1,3 @@
 # Mars
 
-- It's where the beautiful coders work
+- It's where the nice coders work
