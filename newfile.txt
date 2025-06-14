@@ -1,0 +1,1 @@
+Some other file created prior to merging of BranchB
